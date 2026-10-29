@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hammad%20Asghar&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=React%20Native%2C%20MERN%20%26%20Web3%20Wallet%20Developer&descAlignY=60&descSize=18" alt="Hammad Asghar" width="100%" />
+  <img src="./assets/header.svg" alt="Hammad Asghar" width="100%" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/hammad-asghar-5b5105264"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:8b7cf6&height=2" width="100%" alt="" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## ⚡ Tech Stack
 
@@ -33,7 +33,7 @@
 - MERN / Node backends and React dashboards
 - Wallet features: WalletConnect sessions, MetaMask SDK integration, signing and transaction flows
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:8b7cf6&height=2" width="100%" alt="" />
+<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## 📌 Featured Work
 
@@ -85,4 +85,4 @@
   <a href="https://www.linkedin.com/in/hammad-asghar-5b5105264"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="" />
+<img src="./assets/footer.svg" width="100%" alt="" />

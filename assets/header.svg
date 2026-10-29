@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#0f0c29"/><stop offset=".5" stop-color="#302b63"/><stop offset="1" stop-color="#24243e"/></linearGradient></defs>
+<path d="M0 0H1200V170C1000 220 800 140 600 175S200 220 0 170Z" fill="url(#g)"/>
+<text x="600" y="95" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="56" font-weight="700" fill="#fff">Hammad Asghar</text>
+<text x="600" y="138" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="20" fill="#c4b5fd">React Native, MERN &amp; Web3 Wallet Developer</text>
+</svg>
