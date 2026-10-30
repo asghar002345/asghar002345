@@ -14,6 +14,20 @@
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
+## 👋 About Me
+
+Full Stack Developer at **Meta Melon** (Jan 2023 – present), based in Lahore, Pakistan.
+I'm a practical engineer with 3+ years of experience across React Native, MERN, Web3 and AI. I build production-oriented web apps, mobile wallets and AI-powered features.
+
+**Open to:** full-stack, React Native, Web3 and AI engineering roles, including remote.
+
+## 💼 Experience
+
+- **Meta Melon**, Full Stack Developer (Jan 2023 – present). Web apps, React Native wallet apps and Web3 integrations, including passkey authentication, biometric login and secure re-login in React Native wallet apps.
+- **INFILP**, Front-end Developer (Jan 2022 – Dec 2022)
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
 ## ⚡ Tech Stack
 
 <p align="center">
@@ -22,10 +36,12 @@
 
 | | |
 |---|---|
-| 📱 **Mobile** | React Native, Expo, TypeScript |
-| 🧩 **Web / Backend** | MongoDB, Express, React, Node.js, NestJS, PostgreSQL, Redis |
-| 🔐 **Web3** | WalletConnect, MetaMask SDK, viem, Solidity (Foundry), EVM testnets, Tron Nile, Solana Devnet |
-| 🧪 **Tooling** | Jest, Vercel |
+| 🎨 **Frontend** | React, Next.js, TypeScript |
+| 🧩 **Backend** | Node.js, Express, MongoDB (MERN), PostgreSQL, Supabase |
+| 📱 **Mobile** | React Native |
+| 🔐 **Web3** | WalletConnect, MetaMask SDK |
+
+**From my public projects (project and learning work):** NestJS, Prisma, Redis/BullMQ, Solidity with Foundry, Solana and Tron integrations (testnets), Docker Compose (local dev).
 
 ## 🚀 What I Build
 
@@ -41,22 +57,21 @@
   <tr>
     <td width="50%" valign="top">
       <h3>💼 Naseebi</h3>
-      <p>React Native app — professional work.</p>
+      <p>Live on mobile and web.</p>
     </td>
     <td width="50%" valign="top">
       <h3>🌐 Fortiquo</h3>
-      <p>A multi-chain wallet I built.</p>
+      <p>Company desktop wallet app (multi-chain: Ethereum, Polygon, Neon). I worked on the desktop wallet and blockchain integrations.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>📲 Mobile Wallet App</h3>
-      <p>Client project (pre-launch) — React Native wallet work.</p>
+      <p>A mobile wallet application (pre-launch).</p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/asghar002345/VaultLite">🛡️ VaultLite</a></h3>
-      <p>Testnet-only, self-custodial multi-chain wallet demo (React Native + Expo). EVM testnets, Tron Nile, Solana Devnet and WalletConnect, with unit tests.</p>
-      <sub>⚠️ Not yet tested on a device.</sub>
+      <p>Testnet-only, self-custodial multi-chain wallet demo (React Native + Expo). EVM testnets, Tron Nile and Solana Devnet, WalletConnect via Reown WalletKit, and an encrypted PIN/biometric vault. Unit tests, plus end-to-end Maestro flows passing on an Android device (Pixel).</p>
     </td>
   </tr>
   <tr>
@@ -66,17 +81,21 @@
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/asghar002345/milestone-escrow">🤝 milestone-escrow</a></h3>
-      <p>Solidity milestone escrow for freelance work (ETH/ERC-20, EIP-712 approvals, disputes). Foundry, fuzz/invariant tests.</p>
+      <p>Milestone-based freelance escrow in Solidity with Foundry. ETH and ERC-20, EIP-712 and ERC-1271 signed approvals, disputes and pull payments. Unit, fuzz and invariant tests; deployed on Base Sepolia.</p>
       <sub>⚠️ Unaudited, testnet only.</sub>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
       <h3><a href="https://github.com/asghar002345/ReconcileOps">📊 ReconcileOps</a></h3>
-      <p>Payment reconciliation backend prototype (NestJS, PostgreSQL, BullMQ) with a React frontend.</p>
+      <p>Payment reconciliation prototype (NestJS, PostgreSQL/pgvector, Redis/BullMQ, React): CSV import, deterministic matching, investigations with a two-person approval step, HMAC-signed webhooks and an audit trail.</p>
     </td>
   </tr>
 </table>
+
+## 🛠️ How I Work
+
+I use AI-assisted dev tools to speed up implementation, debugging, research and testing. I review and validate the code myself.
 
 ## 📫 Let's Connect
 
