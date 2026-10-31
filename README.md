@@ -31,7 +31,7 @@ I'm a practical engineer with 3+ years of experience across React Native, MERN, 
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,mongodb,express,nestjs,postgres,redis,solidity,vercel,git&theme=dark&perline=11" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,ts,mongodb,express,nestjs,postgres,redis,vercel,git&theme=dark&perline=10" alt="Tech stack" />
 </p>
 
 | | |
@@ -41,7 +41,7 @@ I'm a practical engineer with 3+ years of experience across React Native, MERN, 
 | 📱 **Mobile** | React Native |
 | 🔐 **Web3** | WalletConnect, MetaMask SDK |
 
-**From my public projects (project and learning work):** NestJS, Prisma, Redis/BullMQ, Solidity with Foundry, Solana and Tron integrations (testnets), Docker Compose (local dev).
+**From my public projects (project and learning work):** NestJS, Prisma, Redis/BullMQ, Solana and Tron integrations (testnets), Docker Compose (local dev).
 
 ## 🚀 What I Build
 
